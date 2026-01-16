@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BenchApp Bulldogs Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BenchApp Bulldogs Schedule
+BEGIN:VEVENT
+UID:bulldogs-event-001@schedule
+DTSTART:20250115T190000
+DTEND:20250115T203000
+SUMMARY:vs Thunder Hawks
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Regular\nAway Team: Thunder Hawks\nHome Team: BenchApp Bulldogs\nNotes: League opener
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-002@schedule
+DTSTART:20250122T183000
+DTEND:20250122T200000
+SUMMARY:vs Mountain Lions
+LOCATION:Lion's Den Arena, 450 Mountain Rd, Highland
+DESCRIPTION:Type: Game - Regular\nAway Team: BenchApp Bulldogs\nHome Team: Mountain Lions\nNotes: Away game
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-003@schedule
+DTSTART:20250125T170000
+DTEND:20250125T190000
+SUMMARY:Weekly Training
+LOCATION:Training Field A, 250 Park Ave, Riverside
+DESCRIPTION:Type: Practice - Team\nHome Team: BenchApp Bulldogs\nNotes: Full team required
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-004@schedule
+DTSTART:20250129T193000
+DTEND:20250129T210000
+SUMMARY:vs Coastal United
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Regular\nAway Team: Coastal United\nHome Team: BenchApp Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-005@schedule
+DTSTART:20250205T200000
+DTEND:20250205T213000
+SUMMARY:vs Valley Stars
+LOCATION:Valley Arena, 88 Star Blvd, Valley City
+DESCRIPTION:Type: Game - Playoff\nAway Team: BenchApp Bulldogs\nHome Team: Valley Stars\nNotes: Away playoff
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-006@schedule
+DTSTART:20250208T180000
+DTEND:20250208T193000
+SUMMARY:Conditioning Session
+LOCATION:Training Field B, 250 Park Ave, Riverside
+DESCRIPTION:Type: Practice - Team\nHome Team: BenchApp Bulldogs\nNotes: Bring water bottles
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-007@schedule
+DTSTART:20250212T190000
+DTEND:20250212T203000
+SUMMARY:vs Metro Athletic
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Regular\nAway Team: Metro Athletic\nHome Team: BenchApp Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-008@schedule
+DTSTART:20250219T180000
+DTEND:20250219T193000
+SUMMARY:vs Harbor FC
+LOCATION:Harbor Sports Complex, 77 Dock St, Harbor Town
+DESCRIPTION:Type: Game - Regular\nAway Team: BenchApp Bulldogs\nHome Team: Harbor FC\nNotes: Away game
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-009@schedule
+DTSTART:20250222T160000
+DTEND:20250222T180000
+SUMMARY:Intra-Squad Match
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Practice - Scrimmage\nHome Team: BenchApp Bulldogs\nNotes: Split into two teams
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-010@schedule
+DTSTART:20250226T150000
+DTEND:20250226T163000
+SUMMARY:vs Northside Rangers
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Tournament\nAway Team: Northside Rangers\nHome Team: BenchApp Bulldogs\nNotes: Regional cup round 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-011@schedule
+DTSTART:20250305T193000
+DTEND:20250305T210000
+SUMMARY:vs Eastside Wolves
+LOCATION:Eastside Arena, 321 Wolf Lane, Eastside
+DESCRIPTION:Type: Game - Regular\nAway Team: BenchApp Bulldogs\nHome Team: Eastside Wolves\nNotes: Away game
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-012@schedule
+DTSTART:20250308T173000
+DTEND:20250308T190000
+SUMMARY:Tactical Review
+LOCATION:Training Field A, 250 Park Ave, Riverside
+DESCRIPTION:Type: Practice - Team\nHome Team: BenchApp Bulldogs\nNotes: Video analysis included
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-013@schedule
+DTSTART:20250312T190000
+DTEND:20250312T203000
+SUMMARY:vs Summit FC
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Regular\nAway Team: Summit FC\nHome Team: BenchApp Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-014@schedule
+DTSTART:20250319T200000
+DTEND:20250319T213000
+SUMMARY:vs Lakeside United
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Playoff\nAway Team: Lakeside United\nHome Team: BenchApp Bulldogs\nNotes: Semifinal home
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-015@schedule
+DTSTART:20250322T100000
+DTEND:20250322T110000
+SUMMARY:Light Training
+LOCATION:Training Field B, 250 Park Ave, Riverside
+DESCRIPTION:Type: Practice - Recovery\nHome Team: BenchApp Bulldogs\nNotes: Recovery session
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-016@schedule
+DTSTART:20250326T160000
+DTEND:20250326T173000
+SUMMARY:vs Phoenix Rising
+LOCATION:Phoenix Stadium, 500 Fire Ave, Phoenix City
+DESCRIPTION:Type: Game - Tournament\nAway Team: BenchApp Bulldogs\nHome Team: Phoenix Rising\nNotes: Regional cup semifinal away
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-017@schedule
+DTSTART:20250402T183000
+DTEND:20250402T200000
+SUMMARY:vs Westview Athletic
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Regular\nAway Team: Westview Athletic\nHome Team: BenchApp Bulldogs\nNotes: Senior night
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-018@schedule
+DTSTART:20250405T170000
+DTEND:20250405T190000
+SUMMARY:Pre-Final Prep
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Practice - Team\nHome Team: BenchApp Bulldogs\nNotes: Full dress rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-019@schedule
+DTSTART:20250409T190000
+DTEND:20250409T203000
+SUMMARY:vs Capital City FC
+LOCATION:Central Stadium, 100 Main St, Riverside
+DESCRIPTION:Type: Game - Championship\nAway Team: Capital City FC\nHome Team: BenchApp Bulldogs\nNotes: League championship
+END:VEVENT
+BEGIN:VEVENT
+UID:bulldogs-event-020@schedule
+DTSTART:20250416T170000
+DTEND:20250416T183000
+SUMMARY:vs Crown Athletic
+LOCATION:National Stadium, 1 Championship Blvd, Capital City
+DESCRIPTION:Type: Game - Tournament\nAway Team: BenchApp Bulldogs\nHome Team: Crown Athletic\nNotes: Regional cup final
+END:VEVENT
+END:VCALENDAR
